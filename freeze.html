@@ -3,8 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <title>Debug</title>
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
 </head>
 <body>
-
+<p>Click me</p>
+    <script>
+        $(document).ready(function(){
+            $('p').click(function(){
+                $(this).hide();
+            });
+        });
+    </script>
 </body>
 </html>
