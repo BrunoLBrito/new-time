@@ -1,0 +1,21 @@
+{
+  "name": "projeto-site",
+  "description": "testando comandos e debugs",
+  "main": "index.js",
+  "authors": [
+    "Bruno Lucas <bruno-lucas@msn.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
