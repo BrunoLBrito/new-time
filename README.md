@@ -1,1 +1,1 @@
-# new-time
+# Copyright Bruno Master
